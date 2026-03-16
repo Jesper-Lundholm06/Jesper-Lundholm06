@@ -3,6 +3,7 @@
 Webbutvecklare i utbildning @ TE4 Academy
 
 ## Just nu jobbar jag med
+- AI-baserad plankdetektion med YOLO och datorseende – ett system som analyserar plankor i realtid via RTSP-kamera och visualiserar resultat i ett webbaserat gränssnitt
 - Nobel Quest - multiplayer-spel med Firebase & real-time leaderboards
 - Att lära mig modern JavaScript (ES6+) och asynkron programmering
 - Teamprojekt med Git workflow och code reviews
@@ -24,4 +25,4 @@ Webbutvecklare i utbildning @ TE4 Academy
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jesper-lundholm-235731310/)
 
 
-**Söker praktikplats våren 2026!**
+**Söker Jobb!**
